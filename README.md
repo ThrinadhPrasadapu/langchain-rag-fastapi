@@ -1,4 +1,4 @@
-# LangChain RAG using GPT-4o
+# # 🤖 RAG API - Retrieval Augmented Generation with LangChain & GPT-4o
 
 This project is a **Retrieval-Augmented Generation (RAG)** API built using **LangChain**, **FastAPI**, and **OpenAI GPT-4o**.
 It allows users to ask questions and get answers based on content retrieved from web documents.
